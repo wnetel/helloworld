@@ -6,12 +6,12 @@ It's a simple python package that prints hello world!
 ## PIP install
 
 1. Test\prerelease
-https://test.pypi.org/project/azhelloworldpackage/
-`pip install -i https://test.pypi.org/simple/ azhelloworldpackage`
+https://test.pypi.org/project/wnhelloworldpackage/
+`pip install -i https://test.pypi.org/simple/ wnhelloworldpackage`
 
-2. Production 
-https://pypi.org/project/azhelloworldpackage/
-`pip install azhelloworldpackage`
+2. Production
+https://pypi.org/project/wnhelloworldpackage/
+`pip install wnhelloworldpackage`
 
 
 ## Test locally from source code
@@ -28,7 +28,7 @@ https://pypi.org/project/azhelloworldpackage/
 2. `python setup.py sdist bdist_wheel`
 
 3. under `dist` there will be one or many `*.whl` file you can install it locally
-`pip install C:/some-dir/some-file.whl` or 
+`pip install C:/some-dir/some-file.whl` or
 `pip install /dist/some-file.whl`
 
 
